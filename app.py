@@ -18,7 +18,7 @@ El objetivo de este trabajo es que los estudiantes apliquen los conocimientos ad
 
 """
 
-!pip install streamlit==1.28.0
+
 
 import streamlit as st
 import numpy as np
